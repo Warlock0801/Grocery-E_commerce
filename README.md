@@ -35,7 +35,7 @@ Commit your changes: git commit -m 'Add some feature'
 Push the branch to your forked repository: git push origin my-new-feature
 Submit a pull request detailing your changes for review.
 
-License
+License:
 Grocery E-commerce is open-source software licensed under the MIT License. Feel free to use, modify, and distribute this project according to the terms of the license.
 
 Acknowledgements
